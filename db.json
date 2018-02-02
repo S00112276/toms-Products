@@ -1,0 +1,37 @@
+{
+    "products": [
+        {
+            "productName": "Light grey contrast pocket ribbed knit jumper",
+            "productCode": "302933",
+            "releaseDate": "March, 2017",
+            "price": 25.00,
+            "imageUrls": [
+                "https://riverisland.scene7.com/is/image/RiverIsland/302933_main?wid=2400",
+                "https://riverisland.scene7.com/is/image/RiverIsland/302933_rollover?wid=2400",
+                "https://riverisland.scene7.com/is/image/RiverIsland/302933_back?wid=2400"
+            ]
+        },
+        {
+            "productName": "Dark grey contrast pocket ribbed knit jumper",
+            "productCode": "302642",
+            "releaseDate": "March, 2017",
+            "price": 25.00,
+            "imageUrls": [
+                "https://riverisland.scene7.com/is/image/RiverIsland/302642_main?wid=2400",
+                "https://riverisland.scene7.com/is/image/RiverIsland/302642_back?wid=2400",
+                "https://riverisland.scene7.com/is/image/RiverIsland/302642_alt1?wid=2400"
+            ]
+        },
+        {
+            "productName": "Navy chest patch pocket ribbed knit jumper",
+            "productCode": "302642",
+            "releaseDate": "March, 2017",
+            "price": 25.00,
+            "imageUrls": [
+                "https://riverisland.scene7.com/is/image/RiverIsland/302643_main?wid=2400",
+                "https://riverisland.scene7.com/is/image/RiverIsland/302643_rollover?wid=2400",
+                "https://riverisland.scene7.com/is/image/RiverIsland/302643_back?wid=2400"
+            ]
+        }
+    ]
+}
